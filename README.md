@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/himanshucrypt0" target="blank"><img src="https://img.shields.io/twitter/follow/himanshucrypt0?logo=twitter&style=for-the-badge" alt="himanshucrypt0" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **development**
 
 - 💬 Ask me about **Blockchain Technology**
 
