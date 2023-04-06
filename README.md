@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **development**
 
-- 💬 Ask me about **Blockchain Technology**
+- 💬 Ask me about **Blockchain Technology/** **Cryptocurrency/** **Binance.**
 
 - 📫 How to reach me **himanshusharma02826@gmail.com**
 
