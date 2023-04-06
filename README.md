@@ -26,7 +26,7 @@
 
 <a href="https://linkedin.com/in/himanshu-sharma-2b2631266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-sharma-2b2631266" height="30" width="40" /></a>
 
-<a href="https://fb.com/himanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himanshu sharma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011736706387&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himanshu sharma" height="30" width="40" /></a>
 
 <a href="https://instagram.com/himanshu_insta_model" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu_insta_model" height="30" width="40" /></a>
 
